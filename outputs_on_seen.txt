@@ -1,0 +1,1333 @@
+Dialogue topic: Finance
+  User1: I have always wanted to work in finance or the study of investments.
+  User2: Oh really? What interests you about investing?
+  User1: I would like to be a stock broker.  Some people call finance the study of investments.
+  User2: The study of investments, huh? Can you really study that? Isn't the stock market pretty volatile in that there really isn't any way to predict it?
+  User1: The stock market no, but finance is similar to the field of insurance. Finance involves sturdying assets and liabilities taking into account risk.  You need to analyze companies to be a stock broker.
+  User2: Oh I see, so finance would probably be useful in a business setting, right? I'd assume big companies would pay a lot to find someone proficient in finance.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , it is useful to price assets and their rate of return .
+kgpt     yes, finance aims to price assets based on their risk level and their expected rate of return.
+kexpert  yes, finance is a very important part of business management.  it is a very important part of business management.
+msdp     I 'm not sure about that , but I know that Finance can be broken into three sub-categories : public finance , corporate finance and personal finance .
+bart     Yes, it is.  It is very useful in business setting.  Finance is the study of assets and liabilities.  The stock market is a very important part of it.
+mixcl    Yes, big companies would pay a lot to find someone proficient in finance.  Finance can be broken into three sub-categories: public finance, corporate finance and personal finance.
+human    They might, just as they might hire an outside economist to study the economy.  Finance has been called the study of money management.  Is this starting to get a little clearer?
+
+Dialogue topic: Surfing
+  User1: I really love surfing! It is such an amazing rush to catch a wave. It's like harnessing a force of nature!
+  User2: Yeah I bet it would be interesting, you are at the mercy of the waves.  Any particular beaches you like?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i like the particles composing a beach , such as sand , gravel , shingle , pebbles , and pebbles .
+kgpt     i like to surf in the ocean, but i also like to go to lakes and rivers.
+kexpert  i like the beach that is near me. it's so peaceful and peaceful.
+msdp     New Smyrna Beach is a small beach town in the U.S. state of Florida .
+bart     I don't really have a favorite beach, but I do know that surfing can be done in the ocean, but it can also be in lakes or rivers.
+mixcl    I like to go to Huntington Beach, CA, which is a really popular spot for surfing. The waves are usually found in the ocean, but you can also find them in lakes or in rivers as well.
+human    I am no big wave superhero like Laird Hamilton - I like Wainae (on Oahu).
+
+Dialogue topic: Tiny house movement
+  User2: My house is only 300 square feet.  I love having a tiny house!
+  User1: That is awesome! You must support the tiny house movement which advocates for living in tiny homes! :)
+  User2: Yes I do, do you know a lot about it?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i know there is no set definition as a tiny house , however there is no set definition as a tiny house under is generally accepted as a tiny house .
+kgpt     i do! in the us, the average size of new single family homes grew from 1978 to 2007, and to in 2013, despite a decrease in
+kexpert  i do! i know that the movement was started in the us in the 1970s.
+msdp     Yes I do , do you know a lot about it ? We know that: In the United States , the average size of new single family homes grew from in 1978 to in 2007 , and to in 2013 , despite a decrease in the size of the average family .
+bart     I know a little about it. It advocates living in tiny homes instead of large ones!
+mixcl    I know quite a bit! There is a movement called the tiny house movement which advocates living in tiny homes!
+human    Yes I do, Sarah Susanka actually started the movement after she published her novel in 1997
+
+Dialogue topic: Wage slavery
+  User2: I used to be a wage slave, living from paycheck to paycheck. However I now thankfully have enough money to live a modest but pleasant life.
+  User1: My livelihood depended on wages in the past., but i'm retired now so I don't worry about it.
+  User2: We're both very lucky then. Today I feel so sorry for many people, who can't make ends meet and who have to work 2+ jobs just to get through the week.
+  User1: I know, especially people who work in sweatshops. They have no choice because of the lack of fulfilling jobs.
+  User2: That, and stagnating wages. Corporations have to pay their workers more and CEOs etc. less so people can earn enough to live.
+  User1: Exactly, and this has been going on as early as Cicero in Ancient Rome. This is when people started to make the comparison between slavery and wage labor. We have to do better as a society.
+  User2: I didn't realize this nonsense had been going on that long. We certainly do have to do better, on a lot of things.
+  User1: Yeah, the term "wage slavery" was created a long tome ago to criticize the exploitation of workers.
+  User2: Well, workers are certainly being exploited these days. And its not just in this country. The UK is terrible at the moment.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , the basic aim of bargaining law is to remedy the " inequality " between employees and employers .
+kgpt     yeah, the uk is terrible at the moment. it's a social relationship based on an asymmetry in power between workers and their employers.
+kexpert  yeah, it's a shame that it's been so long. it's a shame that it's been so long. it's a shame that it's been so long. it's a shame that it's been so long.
+msdp     Well , workers are certainly being exploited these days . And its not just in this country . The UK is terrible at the moment . We know that: Wage slavery is a pejorative term used to draw an analogy between slavery and wage labor by focusing on similarities between owning and renting a person .
+bart     Yeah, it's not just in the UK either. Wage slavery is also a term used in the United States to refer to the unequal bargaining power between workers and employers.
+mixcl    Yeah, the UK is a bit of a hotbed for wage labor these days as well. The UK has a long history of wage labor and exploitation. It has been around since the Industrial Revolution.
+human    I know and as long as corporations think that they own these people and can rent them out it's not going to stop.
+
+Dialogue topic: Truck driver
+  User1: Hi there, Im a truck driver or "trucker"
+  User2: That's interesting, what do you haul?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i hauls for finished goods and raw materials .
+kgpt     i deliver goods and raw materials to manufacturing plants, retail and distribution centers.
+kexpert  i drive a truck, i drive a trucker
+msdp     I live in the Midwest . I live in the Midwest .
+bart     I have been a truck driver for 10 years now, I haul heavy equipment.
+mixcl    Im a truck driver for UPS and FedEx
+human    Raw materials, mainly lumber and sometimes minerals
+
+Dialogue topic: Minecraft
+  User2: Hey there, are you a minecraft fan?
+  User1: Minecraft is a video game designed by Swedish game designer named Markus Perrson that was later improved on by Mojang. It's super fun!
+  User2: My nephew loves the game but I must admit that half the time I have no idea what he is doing. 
+  User1: Yeah my nephew loves it too. He spends half the day playing it. The part about building stuff allows players to build with cubes in a 3d environment.
+  User2: Nice. I guess I'm not sure what the point of it is. Maybe that's why it's just a game.
+  User1: There's a bunch of different mode to play in. There's a survival mode, a creative mode where you can fly, and an adventure mode where you can play maps designed by others. Then there's a spectator mode where the laws of physics don't exist haha.
+  User2: Oh, I didn't realize all that. I do like that it's not a violent game. Well, that's what my nephew says anyway.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . multiple gameplay modes are available for the world .
+kgpt     yeah, it's a team-based multiplayer first-person shooter. it's pretty fun.
+kexpert  yeah, it's a fun game. it's also a bit of a cross platform game. you can play on any platform, but i think it's fun to play on the xbox 360.
+msdp     Oh yeah , I like that it 's not a violent game .
+bart     It's not violent at all. It was created by Markus Persson, and it was published by Mojang back in 2009.
+mixcl    It's not violent at all. The game was created by Markus Persson and it was first released in 2009 for OS X, so it's been out since then.
+human    The PC version of Minecraft lets players use mods (modifications). That's where players can create new mechanics/physics, items and other assets in the game.
+
+Dialogue topic: Reading (process)
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love reading , it is a means of language acquisition , communication , and of sharing information and ideas .
+kgpt     i love to read. it is a complex cognitive process of decoding symbols in order to construct or derive meaning.
+kexpert  i love to read.  i love to read.  it is a complex cognitive process.
+msdp     Yeah , I like fiction mainly . I like all languages , it is a complex interaction between the text and the reader which is shaped by the reader ’ s prior knowledge , experiences , attitude , and language community which is culturally and socially situated .
+bart     I love to read. It is a means of language acquisition, communication, and sharing information.
+mixcl    I love to read. It is a great way to acquire language and communicate ideas.
+human    I love to read, reading is a process of decoding symbols to make meaning out of something
+
+Dialogue topic: Guitar
+  User1: I love to play the guitar.  It is described as a fretted instrument with six strings.  Do you play?
+  User2: I don't but would love to if you convince me about it :)
+  User1: Its great to unwind and relax and play a few tunes, especially with friends round.  There are 3 main types, the acoustic guitar, the steel-string and the archtop.  I have just about masted the steel string so far.
+  User2: Amazing, do you know the history of when they started using it?
+  User1: the oldest guitar is around 3500 years old! The modern guitar was preceded by the gittern, then the vihuela and before that the four course renaissance guitar.
+  User2: Nice, what types of guitars are out there?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  there are several types of electric guitar , including the solid - body guitar , and the hollow - body .
+kgpt     there are three main types of modern acoustic guitars: the classical guitar, the steel-string acoustic guitar, and the archtop guitar.
+kexpert  the guitar is a type of chordophone. it has a hollow wooden body and a hollow wooden fretboard.
+msdp     Wow ! That is a lot of money . I know that the guitar is a type of chordophone , traditionally constructed from wood and strung with either gut , nylon or steel strings and distinguished from other chordophones by its construction and tuning .
+bart     There are three main types, the classical guitar, the steel-string guitar and the archtop guitar.  The classical guitar is the most popular guitar type.
+mixcl    The modern guitar is a type of guitar that has a hollow wooden or plastic and nylon string and a body made of wood.  I like the sound acoustics of the acoustic guitar better than the electric guitar.
+human    Well I think the coolest are the electric guitars.  They use one or more pickups to convert the string vibrations into electric signals.  examples are The Fender Stratocaster or The Gibson Les Paul
+
+Dialogue topic: Finance
+  User1: I have always wanted to work in finance or the study of investments.
+  User2: Oh really? What interests you about investing?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i am not sure but i do know that it is traditionally associated with raising financial capital by raising financial capital or acting or acting as the client ' s client .
+kgpt     i like the idea of having a stable and consistent income. it's a lot easier to manage than debt.
+kexpert  i like to think that it is a complex process of analysis and management of assets and liabilities.
+msdp     Yeah , I know that Finance can be broken into three sub-categories : public finance , corporate finance and personal finance .
+bart     I love the idea of money management which is a form of risk management.
+mixcl    I am interested in the science of money management.  Finance can be broken into 3 sub-categories: public finance, corporate finance and personal finance.
+human    I would like to be a stock broker.  Some people call finance the study of investments.
+
+Dialogue topic: Blue Ridge Parkway
+  User2: I love the blue ridge parkway. Are you familiar with it.
+  User1: Isn't that the all-american roadway knon for its senic views?
+  User2: Yes. It is beautiful. I love it in the fall.
+  User1: It'a Americas longest linear park, it runs through 29 counties.
+  User2: Yes. Makes for an awesome drive. I love just driving with no place to go.
+  User1: I've heard the spine along the Blue ridge is breathtaking.
+  User2: Unreal is an understatement. It can take away all your problems for a while.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , it is . land on the national park is owned by the national park service .
+kgpt     it does.  it runs through virginia and north carolina.  it's a beautiful place to visit.
+kexpert  i've heard it's a great place to visit.
+msdp     Unreal is an understatement . It can take away all your problems for a while .
+bart     The park has been the subject of a lot of research.
+mixcl    The parkway has been the most visited unit of the National Park System every year since 1946.
+human    Its been on of the most visited Park System every year since 1946.
+
+Dialogue topic: Cosmetics
+  User2: I use a sophisticated make up brand 
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . i like to make digital make make up up up up up up up up up up up up up .
+kgpt     cosmetics are substances or products used to enhance or alter the appearance or fragrance of the body.
+kexpert  cosmetics are cosmetics that are used to enhance or alter the appearance of the face.
+msdp     Yeah , I know that many cosmetics are designed for use of applying to the face and hair .
+bart     Cosmetics are products used to enhance or alter the appearance of the body.
+mixcl    Cosmetics are substances or products used to enhance or alter the appearance or fragrance of the body.
+human    It is good to use cosmetics to enhance  the appearance or fragrance of the body.
+
+Dialogue topic: Beard
+  User2: i like beards
+  User1: Adult males are usually the ones who grow them!
+  User2: yea makes sense
+  User1: Androgenic hair is generally what beards are classified under.
+  User2: oh ok i didnt know that.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  it is a vestigial trait from a time when humans had hair on their face and entire body like gorillas .
+kgpt     in humans, only pubescent or adult males are able to grow beards.
+kexpert  it is also known as fair hair, fair skin, fair hair, fair hair, fair skin mens, fair skin mens, fair skin mens, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs, fair skin mohs,
+msdp     Beard = > However , in cultures where facial hair is uncommon ( or currently out of fashion ) , beards may be associated with poor hygiene or a `` savage '' , uncivilized , or even dangerous demeanor .
+bart     Yes, it is a vestigial trait from when humans had hair on their face and entire body.
+mixcl    Some religions (such as Sikhism) have considered a full beard to be essential for all males to be able to grow one.
+human    Some people have less facial hair, and some groups have more facial hair than others.
+
+Dialogue topic: Pizza
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love pizza , it is a traditional italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese .
+kgpt     i love pizza! it's a traditional italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven
+kexpert  i love pizza, especially the traditional italian dish with tomato sauce and cheese.
+msdp     I love pizza ! I prefer thin crust with light cheese and extra sauce !
+bart     Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce and cheese and baked in an oven.
+mixcl    Pizza is a traditional Italian dish consisting of a yeasted flatbread typically topped with tomato sauce
+human    Pizza is my favorite traditional italian dish. Is it your favorite as well?
+
+Dialogue topic: Running
+  User2: Running is the way I relax.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  run the song is a song recorded by beyonce
+kgpt     i love running, it allows me to move rapidly on foot. i love to run!
+kexpert  i love running, it is a vigorous vigorous vigorous walk
+msdp     Yeah , I know that Running has been described as the world 's most accessible sport .
+bart     Do you like to run? It is the world's most accessible sport.
+mixcl    Running is a method of terrestrial locomotion allowing humans and other animals to move rapidly on foot.
+human    Do you like to participate in competitive running at events like festivals?
+
+Dialogue topic: Granny Smith
+  User2: I like green apples
+  User1: Granny Smith apples are my favorite too.  They originated in Australia! Can you believe that?
+  User2: Oh wow. I never know where they originated from
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  they are very light , light green , juicy flesh and juicy flesh .
+kgpt     they originated in eastwood, new south wales, australia.  i'm sure they were very popular there!
+kexpert  they were actually first introduced in the united states in 1876.
+msdp     Wow . I never know where they originated from .
+bart     They are native to Asia.  They are often grown for their juicy flesh.
+mixcl    They originated in Australia in the 1800s.  They are native to Europe and Asia.
+human    Named after a woman Maria Ann "Granny" Smith.
+
+Dialogue topic: Veganism
+  User2: I am a vegan, what about you?
+  User1: Interesting. I'm not a vegan myself, though some friends are. Are you a vegan for ethical reasons?
+  User2: I just dislike very much how we treat animals and how we process them. I love meat, it's wonderful but I will only eat what I kill. 
+  User1: I understand, and I've considered it myself. It's also can reduce risk of disease from what I've heard.
+  User2: It's very hard to be vegan, my favorite thing the world is steak. I do catch my own shrimp sometimes and crabs and eat those. It's a great way to live life.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . i like to reduce the risk of some chronic disease .
+kgpt     i agree. it's also associated with a profound social harm, economic costs, and increased disease burden.
+kexpert  i agree. i also like to eat fish and shellfish. i like to eat seafood too.
+msdp     I do catch my own shrimp sometimes and crabs and eat those . It 's a great way to live life .
+bart     That's true, but it can be hard to be a vegan for many reasons. One is that it can reduce the risk of some types of chronic disease like heart disease.
+mixcl    That's a great way to live. I love steak too. I've read that veganism can reduce the risk of some types of chronic disease, like heart disease.
+human    So that means that you're not a dietary vegan, since you sometimes eat seafood?
+
+Dialogue topic: Cat
+  User2: I have a cat by name kitty
+  User1: Woe, The domestic cat ("Felis silvestris catus"
+  User2: What breed of cat is that?
+  User1: experimental cat breeds and crossbreeds that do not have the recognition of major national or international cat 
+  User2: How is crossbreeding of cat done?
+  User1: crossbreed is an organism with purebred parents of two different breeds, varieties, or populations.
+  User2: OK what more do you know?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  the word " chocolate " is derived from the nahuatltl word " chocolatltltl "
+kgpt     crossbreeding is when you breed an organism with the intention to create offspring that share traits of both parent lineages.
+kexpert  the crossbreeding of cats is done by breeding different breeds of cats.
+msdp     I know that they are often valued by humans for companionship and for their ability to hunt vermin .
+bart     The domesticated species of cat ("Felis silvestris catus"), also known as feral cats
+mixcl    The domestic cat ("Felis silvestris catus" or "Felis catus") is a small, typically furry, carnivorous mammal
+human    They are often called house cats when kept as indoor pets or simply cats when there is no need to distinguish them 
+
+Dialogue topic: Smoking
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love smoking . it is a practice in which a substance is burned and absorbed into the bloodstream .
+kgpt     i am a smoker. i smoke a lot of tobacco. it is a practice in which a substance is burned and the resulting smoke breathed in to be
+kexpert  i smoke a lot of cigarettes. i like to smoke it as a form of nicotine replacement therapy.
+msdp     I don't know about that , but I know that most commonly the substance is the dried leaves of the tobacco plant which have been rolled into a small square of rice paper to create a small , round cylinder called a `` cigarette '' .
+bart     I'm not a big fan of smoking, but I'm not against it either. It's just that it can cause so many health problems.
+mixcl    I smoke a lot of cigarettes. It's a practice that's been around since the 19th century.
+human    i used to love to smoke! the most common substance is dried leaves of the tobacco plant
+
+Dialogue topic: Cake
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love cake ! it ' s a form of sweet dessert .
+kgpt     i love cake, it is a form of sweet dessert that is typically baked.
+kexpert  i love cake!  i love how it can be made with a variety of fillings and frosting.
+msdp     Yeah , I know that Cake is a form of sweet dessert that is typically baked .
+bart     I love cake, it's my favorite dessert.
+mixcl    I love cake! It is a sweet dessert that is baked.
+human     Cake is a form of sweet dessert it is also my favorite
+
+Dialogue topic: London
+  User2: I really would love to travel to London when I get older.
+  User1: Yes, it would be cool. Since London is the capital of England, and by far the most populous city, I'm sure there is tons to do there!
+  User2: Definitely! I would love to see the Tower of London and Big Ben
+  User1: London was actually founded by the Romans. At the time, they named it "Londinium".
+  User2: Really? So in a way London is a secondary Italy. lol
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , it is the world ' s leading investment destination , hosting more international retailers than any other other countries .
+kgpt     yes, it was the world's primary business centre. it continues to be a major meeting point for businesses.
+kexpert  yes, it is. it is the capital of england and the largest city in the uk.
+msdp     Yeah , London is a leading global city in the arts , commerce , education , entertainment , fashion , finance , healthcare , media , professional services , research and development , tourism and transportation .
+bart     Yes, it is. It was founded by the Romans, who named it "Londinium".
+mixcl    Yes, I guess so! London is also the world's leading investment destination, hosting more international retailers and corporations than any other city in the world!
+human    yes. its crazy
+
+Dialogue topic: Golden Retriever
+  User1: i have a golden retriever names Goldilocks. he's a large dog that was originally bred as a gun dog to retrieve foul. But I don't hunt. 
+  User2: i love goldens so loving and awesome
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  they are easy to train to train to basic or advanced obedience standards .
+kgpt     golden retrievers are easy to train and love water. they are easy to train to basic or advanced obedience standards.
+kexpert  golden retrievers are great. they are also very easy to train. they are also very easy to train to obedience standards.
+msdp     Oh yeah ! I hope to have one some day .
+bart     They're so smart. They can be trained to be hunting dogs as well as search and rescue. 
+mixcl    I agree, they are so loving. They are also trained to be hunting companions and search and rescue dogs as well. 
+human    Yeah they're nice, and love the water. They're also super easy to train which is fun. 
+
+Dialogue topic: Steak
+  User1: I love to eat steak. Its one of my favourite foods. Its a meat generally sliced across the muscle fibers.
+  User2: are there types of steak?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  steak is a meat generally sliced across the muscle fibers
+kgpt     there are many types. there are fish steaks, ground meat steaks, pork steaks, and many more.
+kexpert  there are different types of steak.
+msdp     That is so cool . I know that Steak is usually grilled in an attempt to replicate the flavor of steak cooked over the glowing coals of an open fire .
+bart     There are many types of steak. Steaks can be pan-fried, or broiled.
+mixcl    Steak can be grilled, pan-fried, or broiled.
+human    Sure there are fresh fish steaks, ground meat steaks, pork steaks and many more varieties. 
+
+Dialogue topic: Grilling
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love to cook on a grill , cooked on a grill ( an open wire ) with a heat source of heat , and a heat source of oven .
+kgpt     i love grilling, it's a form of cooking that involves dry heat applied to the surface of food.
+kexpert  i love to grill! i like to grill my meats and vegetables on the grill.
+msdp     Yes , there is so many different options . . We know that: Grilling has existed in the Americas since pre-Colonial times .
+bart     I love grilling. It's when you grill food over an open fire.
+mixcl    I love to grill food on the grill. It's my favorite thing to do.
+human    I love it when my husband grills out, a form of cooking that involves dry heat - do you like it/
+
+Dialogue topic: Spice
+  User2: I love spicy foods that kick is what makes the food great.
+  User1: I agree. I love the way spices make my food taste.
+  User2: What is your favorite spice to put in your foods?
+  User1: Curry! Found in many Indian dishes. It comes from the curry leaves.
+  User2: I love curry shrimp so good I love habaneros  its a dry chili pepper super hot but good on wings lol.
+  User1: Nice! I also like english cuisine. Like breads and different cheeses.
+  User2: I like fresh french bread from the bakery and I slice it and make this fresh garlic baked chicken.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love cheese and wine . i love cheese and wine .
+kgpt     i love cheese and wine! i like to make my own bread too.
+kexpert  i like that too. i like that it is prepared with a variety of spices and herbs.
+msdp     That is so cool . I know that Italian cuisine offers an abundance of taste , and is one of the most popular and copied in the world .
+bart     Nice! Do you have a favorite type of food?
+mixcl    That sounds delicious! I like to use a lot of garlic in my chicken. It's a good way to spice up the chicken.
+human    Cool. That sounds like it would go well with some Italian food.
+
+Dialogue topic: Stephen King
+  User2: I love Stephen King - his books are so good!
+  User1: Yes! Stephen King is quite popular, no wonder his books have sold more than 350 million copies, many of which have been adapted into feature films and television series!
+  User2: Wow, that's awesome!  I've read The Stand, and that was one long book!
+  User1: Along with long books, he has also written around 200 short stories, most of which has been collected in book collections.
+  User2: That's amazing!  I've seen a few of his movies, but I don't remember what they were though - have you seen any?
+  User1: I've seen Stephen King's most recent film addition, I think it was the clown movie called IT? I've also seen that movie called The Dark Tower which was a few years ago.
+  User2: Yes!  IT was one of the ones I've seen!  I bet he's been writing a long time considering all the books and short stories he's written!
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  it ' s a great movie . it ' s grossed over 700 million worldwide .
+kgpt     i'm not sure if he's been writing a long time, but i know that the film is based on a novel by stephen king called the
+kexpert  i think he's been writing a lot of books, i think he's been writing a lot of short stories.
+msdp     Yes ! IT was one of the ones I 've seen ! I bet he 's been writing a long time considering all the books and short stories he 's written !
+bart     He's been writing for a long time, he's published 54 novels, including seven under the pen name Richard Bachman.
+mixcl    He's been around for a long time, he was born September 21, 1947, so he's been writing for over 50 years!
+human    Yes, he is one experienced writer for sure. He has published over 54 acclaimed novels, including seven under the pen name Richard Bachman!
+
+Dialogue topic: Roller coaster
+  User2: I love riding roller coasters.
+  User1: I love amusement rides. Especially the ones with steep slopes and tight turns.
+  User2: Yep. That would be a roller coaster.
+  User1: Six flags has a roller coaster called the Wild Mouse and it runs with a single car instead of attached trains. 
+  User2: That sounds really fun. I would love to try it.
+  User1: Most roller coasters have a lot of seats that more than a few passengers can sit and are restrained with safety harnesses.
+  User2: I still worry about a malfunction too.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  the first known patents for a roller coaster in 1885
+kgpt     i know! i have a friend who rides along the tracks in open cars and he is terrified.
+kexpert  i know, i just hope it doesn't happen again.
+msdp     Yeah , I know that Roller coaster phobia can be overcome relatively easily , the best cure being going on the tallest/fastest roller coaster before riding roller coasters of a lesser magnitude .
+bart     The first roller coasters were invented in the late 19th century. 
+mixcl    Roller coasters usually have a lot of twists, turns and steep slopes so you have to be careful.
+human    Do you have roller coaster phobia? Have you previously experienced an accident or are you afraid of heights?
+
+Dialogue topic: Vanilla
+  User1: Do you like the flavor vanilla? It's my favorite ice cream flavor. It comes from a Mexican plant species.
+  User2: Yes!  Vanilla gets a bad reputation as being a "bland" and "boring" flavor, but it's the basis for a lot of other flavors and mix-ins.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . i like the swirls of caramels .
+kgpt     i love the flavor of ice cream. it's made from dairy milk or cream, or soy, cashew, coconut or almond milk.
+kexpert  i agree. i like the flavor of vanilla ice cream. it's made from milk and cream and is sweetened with sugar and vanilla extract.
+msdp     Yeah that little pod contains the black seeds that contain all the flavor . Alton Brown showed me on his show how to extract vanilla from the pod .
+bart     That's true. Vanilla has been around for a long time. It was first cultivated by the Olmecs in Mexico.
+mixcl    I agree. I think it's interesting that the word "vanilla" comes from the French word for "green" and is derived from the Latin word "vaina" which means "green".
+human    Yes, absolutely. It's a very subtle flavor that is rich at the same time, if that makes sense. The word vanilla comes from Spanish "vaina" which means "little pod".
+
+Dialogue topic: Depression (mood)
+  User1: I have been experiencing low mood and aversion to activity a lot lately.
+  User2: That's the worst. Do you have any activities you really enjoy to spark your mood?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i enjoy mood and mood . i like to enjoy the mood of seeing the mood .
+kgpt     i like to watch tv and play video games. i have lost interest in activities that i once enjoyed.
+kexpert  i do. i like to read, listen to music, and do some creative things.
+msdp     Yeah , I have tried going out to a movie or going bowling . I have tried going out to a movie or going bowling .
+bart     I don't really have any activities to spark my mood. I just don't feel like I have the energy to do anything.
+mixcl    I have been reading a lot of good books lately to try to boost my mood.
+human    Not really, usually I just turn to drugs and medical treatments to help my mood get better.
+
+Dialogue topic: The Rolling Stones
+  User2: I used to listen to The Rolling Stones a lot when I was a child.
+  User1: Me too. I can't believe they formed in London as far back as 1962! What's your favorite song?
+  User2: I can't even remember to be honest! Do you know who the band members were?
+  User1: Mick (of course), Brian Jones, Keith Richards, Bill Wyman and I don't remember who else.
+  User2: I see, what were their hit singles or albums? Do you recall this?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  they were at the forefront of the british invasion of bands that became popular in the us in 1964
+kgpt     i'm not sure, but i do know that in 1986 they had a number one with another of their uk top 10 hits.
+kexpert  i don't remember any of them.
+msdp     I don't remember that . I know that The Rolling Stones were at the forefront of the British Invasion of bands that became popular in the United States in 1964 , and identified with the youthful and rebellious counterculture of the 1960s .
+bart     I don't remember this, but I do know that Brian Jones, Keith Richards and Bill Wyman all had hit singles.
+mixcl    I don't remember, but I know they had a lot of hit singles like "She's the Boss" and "Let's Spend the Night Together" that topped the charts in the US and UK.
+human    Not too sure to be honest, but I know they were very popular in the 60s. They led the British invasion of bands to the US at that time
+
+Dialogue topic: Historical fiction
+  User2: I don't like to brag, but I just will right here. I'm a historical fiction writer. 
+  User1: Historical fiction writers often work on many different kinds of pieces such as movie scripts, books, video games, ect.  What kind do you work on?
+  User2: Oh, you may of called me out in this one. You know more than I do. I more of a starving artist!  Tell me more, so I can do a better job lol
+  User1: The best historical writers are usually remembered among their respective societies 
+  User2: I can try to attain that, I can do this! What else? Help me be a success
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i think it ' s a great way to see the historical fiction .
+kgpt     historians are concerned with the continuous, methodical narrative and research of past events
+kexpert  the term "famous author" is often used to describe a person who has published more than 150 novels, poems, and plays
+msdp     Motivation is the motivation for the action .
+bart     There are many different genres of historical fiction, such as fantasy, sci-fi, fantasy, etc.
+mixcl    Historical fiction can be written with a wide range of subgenres such as alternate history, the setting, and the period in which the story takes place.
+human    You just need motivation to work on your writing more to become truly successful.
+
+Dialogue topic: Dance
+  User1: I really love to dance, it is a performing art form consisting of purposefully selected sequences of human movement.
+  User2: I love to dance too!  What kind do you do?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i do dance dance . i love to dance . i like to dance with my dancing .
+kgpt     i do a lot of dancing, it is categorized by its choreography, by its repertoire of movements, or by its historical period or place of origin
+kexpert  i do a lot of dancing, it is a form of visual art that is usually performed in public places.
+msdp     Yeah , I do . I love that dance . I know that Dance can be categorized and described by its choreography , by its repertoire of movements , or by its historical period or place of origin .
+bart     I like to watch martial arts, martial arts are popular in martial arts.
+mixcl    I like to do hip-hop dance, Hip-hop is a style of street dance that originated in New York City in the 1980s.
+human    I love choreography dance, Dance can be categorized and described by its choreography, by its repertoire of movements
+
+Dialogue topic: Indian cuisine
+  User2: I'm really into the Indian Cuisine, I like it's flavors.
+  User1: Me too! There is so much variety due to the different soil types, ethnic groups, climate and cultures throughout India.
+  User2: That's true, they use many distinct spices and herbs available only in this region. I love how diverse it is.
+  User1: And it continues to evolve over time due to interactions with other cultures and societies. Like the British/Indian Chicken Tikka Massala.
+  User2: Chicken Tikka Masala is one of my favorites. And not to forget they have many vegetarian options with beans and lentils.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love lentil lentil and it is a dietary staple throughout the indian subcontinent .
+kgpt     yes, it is one of the most popular dishes in the united kingdom.
+kexpert  i love lentils too. i also like the chinese version of the dish.
+msdp     Yeah , I know that Indian food is also heavily influenced by religion , in particular Hindu , and cultural choices and traditions .
+bart     Yes, it is a staple food in many Indian cuisines.
+mixcl    I love that too! Indian food is also heavily influenced by religion, in particular Hindu, and cultural choices and traditions.
+human    Indeed, my favorite veggie options are the dishes with potatoes, brought to India by the Portugese originally.
+
+Dialogue topic: Obsessive–compulsive disorder
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i have a obsessive compulsive disorder where people do it .
+kgpt     i have ocd, a mental disorder where people feel the need to check things repeatedly, perform certain routines repeatedly
+kexpert  i have ocd, which is a mental disorder where people feel the need to check things repeatedly.
+msdp     Obsessive–compulsive disorder is a mental illness characterized by obsessions and compulsions that are so intense that they interfere with daily life .
+bart     I have Obsessive-compulsive disorder, also known as OCD, is a mental disorder where people feel the need to check things repeatedly
+mixcl    I have Obsessive Compulsive disorder. I feel the need to check things repeatedly.
+human    I know several people with OCD, a mental disorder where people feel the need to repeat actions and check things constantly.
+
+Dialogue topic: Karaoke
+  User1: I love to sing karaoke.
+  User2: Same here, it is a lot of fun!
+  User1: Have you ever played Karaoke Revolution?
+  User2: No, what is it?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  it ' s a video game that is video game .
+kgpt     it's a game where you can cover pop songs in karaoke bars.
+kexpert  it's a song by the american band karaoke revolution.
+msdp     Yeah , I know that the Original Concept for Karaoke Revolution was created by Scott Hawkins and Sneaky Rabbit Studios .
+bart     It is a karaoke-like system in which the lead vocalist and the lead guitarist do the karoke.
+mixcl    It's a game where you sing along to an instrumental version of a recording with no vocals.
+human    It is a video game by Harmonix.
+
+Dialogue topic: YouTube
+  User2: I love to surf youtube, I always end up watching interesting videos on there.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree , it allows users to upload , view , share , share , share , comment , and subscribe on videos .
+kgpt     i love youtube too! it's an american video-sharing website.
+kexpert  i love youtube too! it's a free, open source video sharing website.
+msdp     I love to surf youtube , I always end up watching interesting videos on there .
+bart     I love youtube too! It was created by three former PayPal employees back in 2005!
+mixcl    I love youtube too! It was created by three former PayPal employees, Chad Hurley, Steve Chen, and Jawed Karim in 2005.
+human    I love youtube, been using it since it came out in 2005!
+
+Dialogue topic: Casino
+  User2: Growing up my dad owned a casino but i was never allowed inside
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i ' m not sure but las vegas was settled in 1905 .
+kgpt     i was never allowed inside a casino, which is a facility which houses and accommodates certain types of gambling activities.
+kexpert  i bet! i bet you were surprised to learn that casinos are usually used for gambling purposes.
+msdp     Yeah , I know that a casino is a facility which houses and accommodates certain types of gambling activities .
+bart     I'm sorry to hear that. I was never allowed inside either. Were you allowed to gamble?
+mixcl    That's interesting, I've never been inside a casino, but I know it's a facility that houses certain types of gambling activities.
+human    That makes sense since you were young and casinos accommodate gambling activities
+
+Dialogue topic: List of orphans and foundlings
+  User1: I am an orphan due to the loss of both parents when I was young
+  User2: That is so sad, I'm sorry that is something you had to deal with. Has it always just been a part of your life or has it been something you have had to really get over?
+  User1: Just the way it is I guess, oddly the United Nations defines a orphan as anyone who loses one parent
+  User2: That is strange, that makes a lot more orphans than normal. Is there a cut off age for when someone is considered an orphan?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , there are many orphans and found orphans and found out there .
+kgpt     i'm not sure, but i do know that the exact definition of orphan varies, but one legal definition is a child bereft through "death or
+kexpert  i'm not sure, but i do know that the term is used in the united states for people who have lost both parents.
+msdp     Yeah there are a lot of famous people that have had to deal with that , I 'm sure you are in good company .
+bart     I'm not sure, but I do know that in the US there is no set age for an orphan
+mixcl    I'm not sure, but I do know that the term orphan has been in use since the late 19th century
+human    Not sure but a lot of famous writers, notable scientist & world leaders are orphans as well
+
+Dialogue topic: Dog
+  User2: I love dogs, very incredible species,I think wolves especially are fascinating.
+  User1: Yeah - apparently the extant gray wolf is the closest living relative of the dog.
+  User2: I would absolutely believe it, there is so much overlap between the domestic dog and wolf now there is almost an indistinguishable line if breed them properly.
+  User1: I read somewhere they found remains of a dog buried next to its owner dating back 14,700 years ago - so the bond has been around a while.
+  User2: Absolutely, you can tell by the scoring on the bones that they have been picked by the wolves, little clues like that are so cool to me.
+  User1: It's sad that wolves are often hunted. For their skins usually.
+  User2: Really? That is sad, it's naive to from a hunting perspective, you can never kill all of them, its impossible. When a female wolf howls shes doing a roll call and if she hears one missing she breeds more to replace them.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  that ' s cool ! wolves have been hunted since 8 , 000 years ago !
+kgpt     i agree. they are mainly hunted for sport. they protect livestock and protect humans.
+kexpert  i agree. i think it's sad that they are hunted. for their skins usually.
+msdp     Yeah , that is sad . It is smaller than its close relative , the gray wolf , and slightly smaller than the closely related eastern wolf and red wolf .
+bart     That's true. Wolves are one of the most abundant carnivores in the world.
+mixcl    It's amazing that wolves have been around for so long. They have lived in Eurasia and North America for more than 3,000 years.
+human    That's quite cool. I like coyotes too - another member of the canine family.
+
+Dialogue topic: The Beatles
+  User2: What are your thoughts on the beatles? my mothers all time favourite band!
+  User1: I love the Beatles! They had soooo many hit songs. I've even seen a Cirque du Soleil show in Las Vegas that was Beatles themed!
+  User2: That is awesome! Whats your favourite song?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i like the song " the " night " . i love the song "
+kgpt     i really like the beatles' "i'm a fan" which is a song from 1960.
+kexpert  i like the song "love me do" by the beatles. it's a classic.
+msdp     I love the Beatles .
+bart     I think Love Me Do would be my favorite. It was released in 1962 and was a huge hit!
+mixcl    I like all of their songs, but my favorite is Love Me Do. It was their first single from their album "Love Me Do"
+human    I really like Lucy in the Sky With Diamonds. I recently learned that the Beatles were formed in Liverpool in 1960!
+
+Dialogue topic: Coco Chanel
+  User2: Hey! What can you tell me about Coco Chanel?
+  User1: Hi, she was a french fashion designer that was born in 1883 
+  User2: I'm thinking she passed away, right? 
+  User1: Yes, that true. Her real name is Gabrielle Bonheur and she died in 1971
+  User2: I didn't know she didn't use her real name. What else can you tell me about her?
+  User1: She is the founder of the famous Chanel fashion brand
+  User2: It's nice and very expensive brand.
+  User1: Yes. Chanel is into jewelry and women clothing. Her signature perfume is the Chanel No 5
+  User2: I'm sure it smells very nice on a woman
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , it is . it was credited with paul poiret with paul poiret
+kgpt     yes, it smells very nice. chanel was the founder and namesake of the chanel brand.
+kexpert  yes, it smells very nice. chanel is also the founder of the chanel brand
+msdp     That is so cool . I know that Chanel designed her iconic interlocked-CC monogram , meaning Coco Chanel , using it since the 1920s .
+bart     Yes, it does. Her perfume is called Chanel No 5
+mixcl    Chanel No 5 was named after a flower of the same name.
+human    Yes, Chanel No 5 smells very well and it's an iconic perfume 
+
+Dialogue topic: Tea
+  User2: I love tea, I'm drinking some green tea right now
+  User1: I love tea as well! It originated in Southwest China, where it was used as a medicinal drink.
+  User2: Oh really? What was it used to treat?
+  User1: I'm not sure, but tea was popularized as a recreational drink during the Chinese Tang dynasty, and tea drinking spread to other East Asian countries.
+  User2: Interesting, do you happen to know the most popular type of tea? I like green, myself.
+  User1: I'm not sure, but there are so many types of tea like Darjeeling and Chinese greens that have a cooling, slightly bitter, and astringent flavor, while others have vastly different flavor profiles.
+  User2: Oh, thouse sound great, what other flavors do you know?
+  User1: Well there's Pu'er or pu-erh tea which is a variety of fermented tea produced in Yunnan province, China.
+  User2: Ah, so most tea comes from china, yes?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , it is the fourth largest country by total area .
+kgpt     yes, it originated in southwest china. it was used as a medicinal drink.
+kexpert  yes, it's also produced in china.
+msdp     Yes , it is the process of extracting the tea leaves from the tea bush .
+bart     Yes it does. It's one of the most widely consumed drinks in the world.
+mixcl    Yes, that's correct. The earliest reference to tea in the English language was in the Book of Han, which was written in the first century AD.
+human    Tea was popularized as a recreational drink during the Chinese Tang dynasty, and tea drinking spread to other East Asian countries, but other countries like India produce tea leaves. 
+
+Dialogue topic: Cat
+  User2: There's a cat that always comes at the same time every day to take a nap under a tree in my yard. He's pretty adorable.
+  User1: Cat is a small, typically furry, carnivorous mammal.
+  User2: Indeed. I left him food once and when I woke up the next morning, there was a lump of dead bird at my window. I think we're friends now.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  that ' s awesome ! i love that they are valued by humans for companionship and for their ability to hunt vermin .
+kgpt     they are often valued by humans for companionship and for their ability to hunt vermin.
+kexpert  i think so too.  i think cats are the most intelligent species of animal.
+msdp     Yes , we are friends . We know that: Cats are similar in anatomy to the other felids , with a strong flexible body , quick reflexes , sharp retractable claws , and teeth adapted to killing small prey .
+bart     Cat are valued by humans for companionship and for their ability to hunt vermin.
+mixcl    The domestic cat is a small, typically furry, carnivorous mammal.
+human     Often called house cats when kept as indoor pets or simply cats when there is no need to distinguish them from other felids and felines
+
+Dialogue topic: Game of Thrones
+  User1: who doesnt love the american fantasy drama show Game of Thrones?
+  User2: I wish I could see it - I don't have HBO :(
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i ' m not sure but i know it ' s a great show . it ' s a great show .
+kgpt     i know, i love the show too. it's an adaptation of "a song of ice and fire" by george r. r. mart
+kexpert  i love the show, it's a fantasy drama tv series created by david benioff and d. b. weiss
+msdp     Yes , he did . Game of Thrones is an American fantasy television series based on the novels of George R.R. Martin .
+bart     yea its an american fantasy drama tv show
+mixcl    the series will conclude with it's 8th season premiering in 2019
+human     the show is based on an adaptation of A song of Ice and Fire by george R. R.  Martin's fantasy novels
+
+Dialogue topic: Aquarium
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love to garden , i love to garden .
+kgpt     i love to visit the aquariums, they have so many plants and animals to display.
+kexpert  i love to go to aquariums. they are a large aquarium that has a lot of different types of plants and animals.
+msdp     Yeah , I have seen some beautiful aquariums in fancy hotels .
+bart     Have you ever seen an aquarium? It's a large aquarium with a transparent surface.
+mixcl    I like to keep aquariums as a hobby. They are vivariums that keep aquatic plants and animals in a contained environment.
+human    I build aquariums for a living.  Have you ever had fish swimming in your own aquarium?
+
+Dialogue topic: Lawyer
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i am a lawyer , i am a lawyer who practices law , as a paralegal , advocate , attorney , attorney , or solicitor .
+kgpt     i am a lawyer, i practice law as a paralegal, advocate, barrister, attorney, counselor, solicitor, or chartered legal executive
+kexpert  i am a lawyer. i practice law.
+msdp     Yes , lawyers have to go to more schooling after college .
+bart     My husband is a lawyer. He practices law as a paralegal.
+mixcl    I am a lawyer. I practice law and work as a paralegal.
+human    Hi. My husband is a lawyer who practices criminal law. There are different areas of the practice in our country.
+
+Dialogue topic: Only child
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i am an only child . i have no siblings .
+kgpt     i am an only child. i have no siblings. i am an only child.
+kexpert  i am an only child. i have a brother and sister.
+msdp     Yeah , I know that an only child is a person with no siblings , either biological or adopted .
+bart     I am an only child. I have no siblings.
+mixcl    I am an only child, I have no siblings.
+human    I am an only child! No siblings! What about you?
+
+Dialogue topic: Sewing
+  User1: Sewing can be dated back to the Paleolithic Age. And I'm still not good at it! Do you sew?
+  User2: i do. i'm actually pretty good at it. i made some clothes for my baby
+  User1: Wow, that's impressive. Before the invention of the sewing machine all sewing was done by hand, which is how I was taught when a child.
+  User2: me too! I still prefer sewing by hand even though i have a sewing machine. when was sewing machines invented?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  before the invention of spinning yarn or weaving fabric across europe , archaeologists believe stone age and skin clothing sewed fur and skin clothing using furs .
+kgpt     well, the first sewing machine was invented during the industrial revolution to decrease the amount of manual sewing work performed in clothing companies.
+kexpert  i'm not sure, but i do know that the first sewing machine was invented in 1790 by a frenchman named louis-jacques garnerin.
+msdp     Yeah , I know that Brother Industries is a manufacturer of sewing machines and related products .
+bart     The first sewing machine was invented in the 19th century.
+mixcl    I'm not sure when the first sewing machine was invented, but it was invented in the Industrial Revolution.
+human    The first ones appeared in the 19th century and mass production in the 20th century made them popular.
+
+Dialogue topic: Rose
+  User2: I like a lot of different flowers, but roses are my favorite. 
+  User1: They are pretty, but with the sharp prickles on the stems I would think they are hard to take care of.
+  User2: Some varieties probably are, but I had what I call "farm roses" that were nearly impossible to kill when I wanted to take them out of one spot. 
+  User1: Some roses are grown for hedging or ground cover.  Maybe that is what your "farm roses" are!
+  User2: Probably so! They were actually trying to take over my porch, so I could see how they could be good hedging. 
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  that ' s cool ! they form a group of plants that can be erect shrubs , climbing or trailing with sharp prickles .
+kgpt     i bet!  they can be pretty big and showy too!  they can range from white through yellows and reds.
+kexpert  i think they are good for lawn care.  they are also good for ornamental plants.
+msdp     Yeah , I know that Rosalia is a festival in the Netherlands .
+bart     Yes, roses are great for that.  They can also be used for medicinal purposes, such as medicinal herbs.
+mixcl    That sounds like a great idea!  I love roses.  They are one of the most popular and widely cultivated plants in the world.
+human    There is a ceremony called the Rosatio to commemorate the dead where roses are placed at burial sites.
+
+Dialogue topic: Piano
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love playing the piano . it ' s an acoustic , stringed musical instrument invented in italy by bartolomeo cristofori around the year 1700 .
+kgpt     i love playing the piano. it's an acoustic stringed musical instrument.
+kexpert  i love playing the piano. it's a musical instrument invented in italy in the 1700s.
+msdp     He was a Roman Catholic priest . He was a Roman Catholic priest .
+bart     I love playing the piano. It's an acoustic stringed instrument invented in Italy by Bartolomeo Cristofori around the year 1700.
+mixcl    I love playing the piano.  It is an acoustic, stringed musical instrument invented in Italy around the year 1700.
+human    Bartolomeo Cristofori invented the modern piano around 1700.
+
+Dialogue topic: Travel
+  User1: I like traveling, especially when I can do short stays.
+  User2: I have a hard time finding actual things to do in other places.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . travel is very easier to do with .
+kgpt     i like to travel by car, train, boat, airplane, or even airplane.
+kexpert  i like to travel by airplane, train, or airplane.
+msdp     Oh no , what can I do there ? We know that: Fort Munro is a mountain in the Scottish Highlands , located in the Scottish Borders .
+bart     The word "travel" has been around since the 14th century.
+mixcl    I know what you mean.  Travel is the movement of people between relatively distant geographical locations, and can involve travel by foot, bicycle, automobile, airplane, or other means.
+human    Have you tried going to Fort Munro? It's good for short stays when the summer's hot.
+
+Dialogue topic: Fruitarianism
+  User1: Hey I am a fruitarian so I only eat fruits in a botanical sense. Sometimes I'll also have nuts and seeds. Do you eat a lot of fruit? 
+  User2: I eat fruit every morning.
+  User1: What's your favorite kind? Fruitarianism is a subset of being vegan, but more strict. 
+  User2: I love apples.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love apples too ! i love it too ! i love it too ! i love it too !
+kgpt     i love apples too! i'm a fruitarian myself, and i eat a lot of fruits and vegetables.
+kexpert  apple is a great apple. it's a fruit that is grown for its edible fruit.
+msdp     Yeah , I like to cut them up and eat them for breakfast .
+bart     What's your favorite apple? I like apples, but I'm not sure I could be a fruitarian if I ate apples instead of bananas. 
+mixcl    I love apples too! I like to eat them for health-related reasons as well, like for religious or ethical reasons. I like them for their health benefits. 
+human    Cool! Yeah they're delicious and from the deciduous tree in the rose family. They have a sweet, pomaceous fruit.
+
+Dialogue topic: Seattle
+  User2: I am from Canada and visited the US several times, seattle is in another place is my favorite city in the entire planet! hace you ever been to seattle?
+  User1: I have not been there, I do know it is on the west coast, what do you like about it?
+  User2: Well of course the space needle! it was grand! also the pike place market is gorgeous!
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love the central street market . it is named after the central street street to virginia .
+kgpt     i have never been there, i have never been to the pacific ocean, i have never been to washington, but i would love to go
+kexpert  i love pike place, i love the fact that it is the largest city in washington, d.c.
+msdp     Wow ! That is a lot of people . I know that Seattle is the largest city in both the state of Washington and the Pacific Northwest region of North America .
+bart     I have never been to pike place market, I have been to seattle, but I have always wanted to go there.
+mixcl    I have never been to Pike Place Market, have you ever been to Space Needle?
+human    They sound great, I didnt know but there are approx 713,000 people in Seattle
+
+Dialogue topic: Ballet
+  User2: I enjoy going to ballet performances, especially with my girlfriend. She used to dance ballet, and her critiques of the performers are hilarious.
+  User1: I'll bet! Does she prefer traditional classical ballets or the modern ballets?
+  User2: I'll have to ask her, but my guess would be classical. I think they're easier to critique, because modern ballet can be so avant garde and "do whatever you want."
+  User1: I agree! I really enjoy the elaborate costumes and staging of a traditional classical ballet. It's beautiful!
+  User2: Yeah it is! So much of the story can be told before you even look at the movements of the dancers, because of makeup and costuming.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i know , it ' s a two - act ballet .
+kgpt     i agree! i love how the libretto is adapted from a story by e. t. a. hoffmann.
+kexpert  i agree! i love how the choreography is so intricate and the movements are so graceful.
+msdp     Yeah it is ! So much of the story can be told before you even look at the movements of the dancers , because of makeup and costuming .
+bart     Exactly! Ballet has been around since the 15th and 16th centuries, so it's been around a long time!
+mixcl    Yes, it's amazing how ballet can tell a story through the use of music and costumes and scenery.
+human    I totally agree! Have you ever seen The Nutcracker? I think that is my all-time favorite ballet. It doesn't feel like Christmas until I've seen it.
+
+Dialogue topic: Cosmetics
+  User2: I use a sophisticated make up brand 
+  User1: It is good to use cosmetics to enhance  the appearance or fragrance of the body.
+  User2: What's your brand of cosmetics?
+  User1: I do not chose a brand not neither do i need a feature that distinguishes a cosmetic product from its rival
+  User2: So what's the earliest record of cosmetic usage?
+  User1: The only record of cosmetic from the past was with the word itself that was derived from the Greek κοσμητικὴ τέχνη ("kosmetikē tekhnē") and it means "technique of dress and ornament", 
+  User2: What are the types of cosmetics?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  they are generally mixtures of chemical compounds , such as coconut oil oil , and some being derived from natural sources .
+kgpt     some women in ancient rome invented make up including lead-based formulas, to whiten the skin, and kohl was used to line the eyes
+kexpert  the most common are mascara, eye shadow, foundation, skin cleansers, and skin lotions.
+msdp     I know that Cosmetics are generally mixtures of chemical compounds ; some being derived from natural sources ( such as coconut oil ) , and some being synthetics .
+bart     I am not sure but i know that cosmetics are products that are used to enhance or alter the appearance of the body.
+mixcl    Cosmetics that are used to enhance or alter the appearance of the body, enhance its appearance and relieve skin conditions, 
+human    We have the  lipstick, mascara, eye shadow, foundation, rouge, skin cleansers and skin lotions, shampoo and hairstyling products
+
+Dialogue topic: Zumba
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love zumba . it ' s a exercise program created by colombian dancer and choreographer alberto " power pedal "
+kgpt     i love zumba, it's an exercise fitness program created by colombian dancer and cyclist/choreographer alberto "beto"
+kexpert  i love zumba, it is a dance and it is a type of dance that originated in the southern us
+msdp     I have ! My best friend and I occasionally take classes ! We know that: Zumba is an exercise fitness program created by Colombian dancer and cyclist/choreographer Alberto `` Beto '' `` Power Pedal '' Perez during the 1990s .
+bart     Have you ever participated in the fitness club Zumba?
+mixcl    Zumba is a great exercise program
+human    Hello dear, have you hard of Zumba? is an exercise fitness program created by Colombian dancer  
+
+Dialogue topic: Peyton Manning
+  User1: Have you heard of Peyton Manning? He's my favourite NFL player.
+  User2: I have but just casually, this is because I am not a fan of the NFL. I prefer Soccer but tell me more
+  User1: He played 18 seasons in the NFL, mainly with the Indianapolis Colts!
+  User2: Nice. 18 is quite impressive, it means he has been with Indianapolis Colts for quite a while
+  User1: Yes. Although he had to miss the 2011 season as he had neck curgery. He left the Colts after this and signed with the Broncos.
+  User2: oh wow!, those injuries happen once in a while. How's he doing in Broncos
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  he is the second son of former nfl quarterback and older brother of new york giants .
+kgpt     he is doing great. he is considered one of the greatest quarterbacks of all time. he spent 14 seasons with the colts.
+kexpert  he's doing great. he's been with the broncos since 2011.
+msdp     Peyton Manning is a former American football quarterback who played 18 seasons in the National Football League ( NFL ) , primarily with the Indianapolis Colts .
+bart     He is doing great. He was the quarterback for the Denver Broncos until 2011 when he joined the Colts.
+mixcl    He is doing well in Denver. He is one of the all-time leading quarterbacks in NFL history.
+human    He's done well. He's the son of a former NFL quarterback Archie Manning and older brother of Eli Manning - NFL is apparently in the family!
+
+Dialogue topic: Podcast
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love to watch podcasts , it ' s a episodic series of digital audio or video files .
+kgpt     i love listening to podcasts. they are a series of digital audio or video files that a user can download and listen to.
+kexpert  i love listening to podcasts.  i love listening to podcasts because they are a collection of audio or video files that can be listened to over the internet.
+msdp     Yeah , I listen to a lot of news and political podcasts .
+bart     I love listening to podcasts on the radio. Do you like them?
+mixcl    I love listening to podcasts on my phone. It's a series of digital audio or video files that you can download and listen to.
+human    Do you listen to podcast which is an episodic series of digital video or audio files that a user can download for their use.
+
+Dialogue topic: Agatha Christie's Poirot
+  User2: hello I do love Agatha Christie novels
+  User1: Me too. I like Hercule Poirot ones the best.
+  User2: yes, Poirot is a great character, i do love it when he gets going
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love the eponymous detective , david such as the eponymous detective , agatha christie ' s fictional detective , agatha christie ' s fictional detective , and the fictional character .
+kgpt     it's a british mystery drama tv series. it aired from 1989 to 2013.
+kexpert  i love that she is a great writer. she is a great novelist.
+msdp     Yes , I love it . I know that Agatha Christie 's Poirot is a British mystery drama television series that aired on ITV from 8 January 1989 to 13 November 2013 .
+bart     Agatha Christie's Poirot is one of my favorite novels.
+mixcl    Agatha Christie's Poirot is a British mystery drama tv series.
+human    What's your favorite novel? Mine is The Big Four.
+
+Dialogue topic: Comic book
+  User2: I like some comic books because they don't require much thought to read. Never been a huge fan, you?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love comic books , especially the comic books . they were first popularized in the 1930s .
+kgpt     i like them because they consist of comic art in the form of sequential juxtaposed panels that represent individual scenes.
+kexpert  i like comic books because they are a type of visual art form.
+msdp     I like some comic books because they do n't require much thought to read . Never been a huge fan , you ?
+bart     I love comic books! I read them all the time when I was a kid. They're a collection of comic art that you can draw on.
+mixcl    I love comic books! I love reading them because they are a publication that consists of comic art in the form of a sequential narrative.
+human    I like them! Comic magazines are great because of the juxtaposed panels that represent scenes.
+
+Dialogue topic: The Last of the Mohicans (1992 film)
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love the last of the mohicans . it ' s a 1992 epic historical drama .
+kgpt     i love the 1992 american epic historical drama, the last of the mohicans.
+kexpert  i love the 1992 film "the last of the mohicans"
+msdp     I love that movie and the soundtrack in particular .
+bart     Have you ever seen the 1992 film "The Last of the Mohicans"?
+mixcl    Have you ever seen the film "The Last of the Mohicans"?
+human    The Last of the Mohicans is a 1992 American epic historical drama it is also one of my favorite movies
+
+Dialogue topic: Cat
+  User1: I love cats, i have one names Sam is a small, typically furry, carnivorous mammal.
+  User2: Cats are my favorite animal, I have one too, I think he is a tom since he is a boy
+  User1: that is neat. They are often called house cats when kept as indoor pets.
+  User2: Ahh, that totally makes since, I never let my kitty outside, I am terrified of the gross things they may bring back inside the house!
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  there are more than seventy cat breeds recognized by various cat registries .
+kgpt     i know! they are often valued by humans for companionship and for their ability to hunt vermin.
+kexpert  i agree. cats are often valued by humans for companionship and for their ability to hunt vermin.
+msdp     Yes , they do . They are similar in anatomy to the other felids , with a strong flexible body , quick reflexes , sharp retractable claws , and teeth adapted to killing small prey .
+bart     cats are often valued by humans for companionship and for their ability to hunt vermin.
+mixcl    They are valued by humans for companionship and for their ability to hunt vermin.
+human    Cats are great pets. They are often valued by humans for companionship 
+
+Dialogue topic: Cooking
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love cooking . it ' s the art , technology , science and craft of preparing food for consumption .
+kgpt     i love cooking.  it is the art of preparing food for consumption.
+kexpert  i love cooking. i love to cook and prepare food for my family.
+msdp     That is true . I know that Preparing food with heat or fire is an activity unique to humans .
+bart     I love to cook. Cooking is the art, technology, science and craft of preparing food for consumption.
+mixcl    I love to cook.  Cooking is the art, technology, science and craft of preparing food for consumption.
+human    I can't do without cooking!  cookery is the art, technology, science and craft of preparing food
+
+Dialogue topic: New York-style pizza
+  User1: The first pizza sold for five cents a pie!
+  User2: Hello!
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love new york pizza ! it was founded in new york city in new york city .
+kgpt     i love pizza! modern pizza was invented in naples. i love how it has become so popular in many countries.
+kexpert  i love pizza!  i love how it is topped with tomato sauce and cheese!
+msdp     I like pizza by the slice . I know that Pizza by the slice is a fast food purveyed by pizzeria restaurants and food stands as prepared slices of pizza .
+bart     New York-style pizza is one of the most popular foods in the whole world!
+mixcl    Pizza is one of the most popular foods in the world.
+human    I could really go for a jumbo slice of pizza right now!!
+
+Dialogue topic: Ford F-Series
+  User2: Do you know much about ford trucks?
+  User1: Yes I do!  The Ford trucks (or F-series) is a series of light-duty trucks and medium duty trucks that have been manufactured by Ford Motor Company.
+  User2: Are they durable as other trucks?
+  User1: Definitely - if you want the heavy duty trucks, the Ford F-Series Super Duty is the one you would like to buy.  It has a heavier-duty bodywork to ensure that it can work in any tough conditions.  Are you looking to buy a car?
+  User2: I am. I am not sure if I need a truck thought, I want something with better gas mileage
+  User1: While that is a good idea - sometimes a truck can provide you more benefits that a smaller compact car just can't.    You should look into the most popular version of the F-Series, F-150.
+  User2: I would not mind a smaller truck at all.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  the most popular version of the f - 150 is the f - 150 .
+kgpt     you should!                           
+kexpert  i would love a f-150 - it is the best selling vehicle in the us.
+msdp     I would not mind a smaller truck at all . I know that The Ford F-Series is a series of light-duty trucks and medium-duty trucks ( Class 2-7 ) that have been marketed and manufactured by Ford Motor Company since 1948 .
+bart     The F-150 is the most popular version of the F-series.  It is also the best selling vehicle in Canada.
+mixcl    The Ford F-Series has been the best-selling vehicle in the US since 1981.  That's a long time!
+human    Yep - and that's why the F-150 would be best for you.  It is a smaller truck and more gas efficient but still gives you the power of a truck for towing capacity.  I would not recommend the other trucks (F-250 through F-550).
+
+Dialogue topic: Vietnamese cuisine
+  User2: I like Vietnamese cuisine, particularly Pho and Banh Mi which are popular in America. What about you?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love thai cuisine ! i love thai cuisine !
+kgpt     i love vietnamese food! it's so good! it's so versatile! it's so versatile! it's so versatile! it's so
+kexpert  i love pho and banh mi.
+msdp     I like Vietnamese cuisine , particularly Pho and Banh Mi which are popular in America . What about you ?
+bart     I love Vietnamese food. It's one of the most popular cuisines in the world.
+mixcl    I love Vietnamese cuisine too! It is one of the most popular cuisines in the world.
+human    I like it as well, vietamese cusine ecompasses the foods and beverages of vietnam 
+
+Dialogue topic: Nicholas Sparks
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  nicholas sparks is an american romance novelist , screenwriter and producer .
+kgpt     nicholas charles sparks is a great american novelist and producer.
+kexpert  nicholas sparks is an american singer and songwriter.
+msdp     I don't know who he is , but I know that A Walk to Remember is a 2002 American coming-of-age romantic drama film directed by Adam Shankman and written by Karen Janszen , based on Nicholas Sparks ' 1999 novel of the same name .
+bart     Do you like Nicholas Sparks? He is an American romance novelist, screenwriter, and producer.
+mixcl    Nicholas Sparks is an American romance novelist, screenwriter and producer.
+human    Hey! Do you know who Nicholas Sparks is?
+
+Dialogue topic: Disco
+  User2: I've lately been listening to a lot of 70s and disco music, I really enjoy it. Do you like disco?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i do like disco music . it ' s a musical style originating in the early 1970s .
+kgpt     i do like disco, it originated in the early 1970s. i like it too.
+kexpert  i do like disco music, it is a genre of dance music that originated in the 1960s
+msdp     Yeah , I like disco . I know that Disco is a musical style originating in the early 1970s .
+bart     I love disco music! It originated in the United States in the early 1970s!
+mixcl    I do like disco.  It is a musical style that emerged in New York City during the mid-1970s.
+human    Disco is interesting.  Its popularity peaked when I was a young child so I never really learned to appreciate it
+
+Dialogue topic: Tourism in Italy
+  User2: i want to visit Italy so bad
+  User1: I have only been there once, but I'd love to go back! There are so many World Heritage Sites in Italy. More than any other country in the world.
+  User2: really? i would like to know more!
+  User1: Yeah! World Heritage Sites are selected by UNESCO, based on their historical and cultural significance.
+  User2: so what are some of those world heritage sites?
+  User1: In Italy, some of the more famous World Heritage Sites include Pisa and many different archaeological sites. 
+  User2: what is Pisa and where exactly is it located?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  italy is a european country consisting of a peninsula delimited by the italian alps
+kgpt     it is a city and "comune" in tuscany, central italy, straddling the arno just before it empties into
+kexpert  it is located in the italian peninsula.
+msdp     Pisa is a city in the province of Pisa , Italy .
+bart     Pisa is a city in the Italian province of Lazio, on the southern coast of the Italian peninsula. 
+mixcl    Pisa is a city in Italy. It is located in the country's north-eastern part.
+human    Pisa is located in Tuscany, most famous for the leaning tower of Pisa. 
+
+Dialogue topic: Laziness
+  User1: Sometimes I am overcome by laziness, and I don't want to work or do anything at all.
+  User2: I know exactly how you feel. I can get pretty lazy.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . i like to get a couch potato .
+kgpt     i am not a lazy person, but i do have a habit of laziness.
+kexpert  i am not a lazy person, but i do have a lot of work to do.
+msdp     I am trying not to become too lazy . I know that it may reflect a lack of self-esteem , a lack of positive recognition by others , a lack of discipline stemming from low self-confidence , or a lack of interest in the activity or belief in its efficacy .
+bart     It's not just me either. It can be anything from laziness to irritability.
+mixcl    I know, I feel like I could just sit around and do nothing, even if I want to.
+human    More formally some call laziness a disinclination to activity or exertion despite having the ability to act.
+
+Dialogue topic: Tennis
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love tennis . it can be played individually against a single opponent .
+kgpt     i love tennis, it is a racket sport that can be played individually against a single opponent
+kexpert  i love tennis. it's a sport played on a court with a racket.
+msdp     Tennis is a racket sport that can be played individually against a single opponent ( singles ) or between two teams of two players each ( doubles ) .
+bart     Do you like tennis? It's a racket sport that can be played individually against a single opponent.
+mixcl    Tennis is a racket sport that can be played individually against a single opponent or between two teams of two players.
+human    I used to love playing tennis as a kid. Have you ever played?
+
+Dialogue topic: Chocolate
+  User2: I like chocolate what  of you
+  User1: I love chocolate! It is a sweet, brown food prepared from cacao seeds.
+  User2: Yes what other products can be seen in cocoa
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  it is made in the form of a liquid , paste or in a block
+kgpt     it is made in the form of a liquid, paste, or in a block.
+kexpert  i like to make chocolate beverages, which are made from cacao seeds.
+msdp     Yes , I know that cocoa has been cultivated by many cultures for at least three millennia in Mesoamerica .
+bart     The earliest evidence of use traces to the Olmecs (Mexico), with evidence of chocolate beverages.
+mixcl    Well, it is made in the form of a liquid, paste or in a block, or used as a flavoring ingredient in other foods.
+human    When the beans are liquefied through heating, that is called chocolate liquor. Cocoa is used for many things.
+
+Dialogue topic: Body piercing
+  User2: I have ten piercings all over my body.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i have a jewellery , i have a jewellery , but i can ' t imagine that jewellery can be made from a wide range of materials .
+kgpt     i have a lot of piercings, which is the practice of puncturing or cutting a part of the human body, creating an opening in which
+kexpert  i have a few piercings on my arms and legs.
+msdp     I have ten piercings all over my body . I know that Ear piercing and nose piercing have been particularly widespread and are well represented in historical records and among grave goods .
+bart     Do you mean body piercing, which is the practice of inserting objects into the body?
+mixcl    That's amazing!  I've heard that body piercing is a form of body modification where a part of the body is modified to allow for the insertion of jewelry
+human    Wow, well considering ear piercing and nose piercing have been widespread, other types of piercing are gaining, I suppose.
+
+Dialogue topic: Walmart
+  User2: Walmart is the only big box store in my town so it's as if we're forced to go there.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i ' m not sure but i know that walmart has 11 , 703 stores in 28countries .
+kgpt     walmart is a great american multinational retail corporation. i love their hypermarkets and department stores.
+kexpert  walmart is a great store, they have over 100 stores in over 100 countries
+msdp     Yeah , that is true . I know that Walmart is the only big box store in my town so it 's as if we 're forced to go there .
+bart     Walmart is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores and Sam's Club retail warehouses
+mixcl    Yes, Walmart is the world's largest company by revenue.
+human    I love Walmart! It also owns and operates Sam's Club retail warehouse
+
+Dialogue topic: Laziness
+  User1: It really irks me that Laziness is often considered a pejoritive term for someone who is a couch potato or slacker.
+  User2: I totally agree with you! and Laziness is a habit rather than a mental health issue, some people think that it can be treated but you need to put your effort to eliminate that habit
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . treatments are provided by various mental health professionals .
+kgpt     i agree. i think it's a shame that people think laziness is a mental health issue.
+kexpert  i agree. i think it's a shame that people have to deal with it. it's a shame that people have to deal with it.
+msdp     Yes i agree , i did a tesis on Laziness and it showed that may manifest as procrastination or vacillation , so when im doing one of these or both , i need to snap out of it !
+bart     Yes, I think it is a mental health issue as well. It can be treated with medication, but it can also be used as a coping mechanism.
+mixcl    Laziness is not a mental illness, it is just a bad habit that can be hard to break.
+human    Yeah. Mental health is more about a subjective well-being, and competence, and one's intellectual/emotional potential according to the WHO.
+
+Dialogue topic: Tutor
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i am a tutor . i am a tutor . i am a tutor who gives private lessons
+kgpt     i am a tutor. i give private lessons. do you? i teach english.
+kexpert  i love to go to the dentist.  i have a friend who is a tutor.
+msdp     That sounds interesting . I know that the College English Test is a test of English proficiency that is administered by the College Board .
+bart     I used to work as a tutor when I was younger.
+mixcl    I am a tutor in the performing arts school.
+human    I tutor private english instructions to chinese children online
+
+Dialogue topic: The Beatles
+  User2: hello, i do like the band, the Beatles
+  User1: Yes, the Beatles are great! It's amazing how they built their reputation by playing in clubs in Liverpool and Hamburg. 
+  User2: i must been amazing to watch them in a small club
+  User1: I know, that must have been a neat experience! Since they formed the band in 1960 I wasn't even born yet to go haha.
+  User2: in a short time when they started, they exploded
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  that ' s true . in 1963 they were called beatlemania .
+kgpt     they were at the forefront of the british invasion of bands that became popular in the united states in 1964 and were identified with the youthful and rebellious
+kexpert  yeah, they were one of the most successful bands in the 60s and 70s.
+msdp     Yeah , I know that The Beatles exploded .
+bart     They really did! Their first album "Love Me Do" was released in 1962 and it was certified platinum in the U.S
+mixcl    They sure did! They had such a huge impact on pop music that it's no wonder they are one of the most successful bands in the history!
+human    Defenitly! They had a great manager Brian Esptein and producer George Martin. I'm sure that helped them grow!
+
+Dialogue topic: Parenting
+  User1: I am not a parent but it seems to me that parenting skills vary, and a good parent may be said to have good parenting skills.
+  User2: I am a parent and I find parenting to be extremely difficult.  What do you know about parenting tips that you can provide me?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  well , you can get a parent management training for your parent , you should check it out .
+kgpt     i know that parenting is a very complicated thing, but it is a very important thing. it is a very important thing to raise a child aside from
+kexpert  well, parenting skills vary, and a good parent may be said to have good parenting skills.
+msdp     Yes , that is exactly what I mean . I know that the English pediatrician and psychoanalyst Donald Winnicott described the concept of `` good-enough '' parenting in which a minimum of prerequisites for healthy child development are met .
+bart     I am not a parent but parenting skills vary, and parenting skills may be said to be a good parenting skill.
+mixcl    I am not a parent but I know that parenting skills vary, and a good parent may be said to have good parenting skills if they use strategies that reinforce these skills.
+human    The English pediatrician Donald Winnicot has a theory of the concept of "good-enough" parenting in which a minimum of needs for the healthy development of a child are met.
+
+Dialogue topic: 100 metres
+  User1: I use to run in school and on some days I could run 100 meters without failing, Do you know about running track?
+  User2: Oh wow! No, I don't know much about running track, but I've been interested in learning! 
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  it ' s a great sport . it ' s a running track and a grass field .
+kgpt     track and field is a sport which includes athletic contests established on the skills of running, jumping, and throwing.
+kexpert  well, it's a sport that involves running and jumping and sprinting.
+msdp     Yeah , that is a long distance race in track and field competitions .
+bart     The 100 meter dash is a race in which a person attempts to run over a distance of at least 100 meters.
+mixcl    Track and field is categorized under the umbrella sport of athletics which includes road running, cross country running, and race walking
+human    When I was in school There was a competition called the 100-metre dash, its basically a sprint race in track and field competitions. Its very tough.
+
+Dialogue topic: Comic book
+  User1: man, comic books are such a fun way to pass the time.
+  User2: Yeah.  Do you like the new comic books or the retro ones?  I love the old ones myself 
+  User1: I got to say the real old ones bore me. Some as old as 1830's in europe
+  User2: Wow Ive never seen one quite that old! Marvel or DC?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  dc is a classic , but it was released in 1933 .
+kgpt     i think marvel is the best. the first modern comic book was released in 1933
+kexpert  i have seen marvel comics. they are a comic book publisher and a comic magazine publisher
+msdp     I love comics . I know that The Simpsons is a comedy series based on the American animated television series .
+bart     DC and Marvel are pretty old as well. Comic books have been around for as long as comics have existed.
+mixcl    Marvel, I think. The first modern comic book came out in the US in the 1930's. Some as old as 18th century
+human    Neither, the first modern comic was famous funnies in the us
+
+Dialogue topic: Pittsburgh Steelers
+  User2: Huge fan of the Steelers. Whats you favorite sports team?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love the steelers ! they are the oldest franchise in the afc .
+kgpt     i like the pittsburgh steelers. they are a professional american football team based in pittsburgh, pennsylvania.
+kexpert  i like the steelers. they are a professional football team based in pittsburgh, pennsylvania.
+msdp     I love the Steelers . I know that the Steelers are the oldest franchise in the AFC .
+bart     The Pittsburgh Steelers are one of my favorite American football teams.
+mixcl    I'm a big fan of the Pittsburgh Steelers.  The Steelers are an American football team based in Pittsburgh, Pennsylvania.
+human    I like the Jaguars myself. My mother is a Steelers fan, she was so disappointed when they lost Super Bowl XLV on February 6th, 2011.
+
+Dialogue topic: Austin, Texas
+  User2: i have heard so much about Austin, Texas? what can you tell me about these beautiful city?
+  User1: I have heard of Austin as well, it's the capital of Texas.
+  User2: what is it located
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  it is the capital of texas and the seat of travis county .
+kgpt     it's located in the state of texas and extends into hays and williamson counties.
+kexpert  it's located in the midwest of the us.
+msdp     Austin is located in the state of Texas .
+bart     It's actually the fastest growing large city in the United States.
+mixcl    It's located in the state of Texas, on the Colorado River.
+human    Austin is located in the state of Texas. It covers Travis County but also extends to Hays and Williamson counties.
+
+Dialogue topic: Komodo dragon
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love the komodo dragon . they are known as the komodo dragon .
+kgpt     i have a komodo dragon, also known as the komodo monitor, which is a large species of lizard found in the indonesian
+kexpert  i have a komodo dragon, a type of lizard that is native to japan.
+msdp     Wow , that is a lot of weight . I know that the Komodo dragon ( `` Varanus komodoensis '' ) , also known as the Komodo monitor , is a large species of lizard found in the Indonesian islands of Komodo , Rinca , Flores , Gili Motang , and Padar .
+bart     Have you ever seen a Komodo dragon?
+mixcl    I love the Komodo dragon, it is the largest species of lizard found in the Indonesian islands of Komodo
+human    It is crazy to think Komodo dragons are the largest species of lizards, they are the modern day godzilla!
+
+Dialogue topic: Rose
+  User1: A rose is my favorite flower. It is a woody perennial of the genus Rosa in the family Rosaceae.
+  User2: Roses are a beautiful flower. How do you feel about sunflowers?
+  User1:  I really enjoyed them in Vincent Van Gogh's painting.
+  User2: Was Vincent Van Gogh the artist that cut off his ear?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , he painted portraits throughout 1881
+kgpt     yes, he was a dutch post-impressionist painter. he was one of the most famous and influential figures in western art.
+kexpert  yes, he did.
+msdp     That is so cool . I know that The Starry Night is a painting by the Dutch artist Vincent van Gogh .
+bart     I don't know who he was, but I do know that he was a French painter who lived in Paris.
+mixcl    Yes, he was. He was an American Impressionist and landscape painter.
+human    Yes, because he had a lot of mental health issues and neurological issues like epilepsy and bipolar disorder.
+
+Dialogue topic: Hoarding
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i love hoarding , it is a behavior where people accumulate food or other items .
+kgpt     hoarding is a behavior where people or animals accumulate food or other items.
+kexpert  i have a lot of hoarding. i hoard food and stuff.
+msdp     I don't know about that . I know that hoarding is people who lose the desire to throw away unneeded items because of a feeling of attachment to these items .
+bart     Have you ever heard of hoarding? It's when people accumulate food and other items.
+mixcl    Hoarding is a behavior where people or animals accumulate food
+human    Hoarding involves the accumulation of objects.
+
+Dialogue topic: Vikings
+  User2: I'm excited to know more about vikings from you
+  User1: Vikings are Norse seafaring pirates 
+  User2: Which country are they originally from?
+  User1: Vikings were from Northern European homelands, Denmark and Sweden
+  User2: Did they have supernatural powers? because I once heard they are quite adventurous
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  they were adventurous to have advanced sailing and navigational skills .
+kgpt     vikings were seen at many points in history as brutal raiders.  i think they were very brave
+kexpert  they were not, they were not religious, they were just people who lived in the land of the living
+msdp     Yes , they did . They were Norse seafarers , mainly speaking the Old Norse language , who raided and traded from their Northern European homelands across wide areas of northern , central , eastern and western Europe , during the late 8th to late 11th centuries .
+bart     Vikings raided and traded with the north as far as I know
+mixcl    Vikings were Norse seafarers, mainly speaking the Old Norse language
+human    I don't think so. Vikings  were strong nordic military power across the west central and eat europe
+
+Dialogue topic: Lightning McQueen
+  User2: Do you know Lightning McQueen from the Cars movie. I really liked that character.
+  User1: Yes I do my grandson loves that car named after Glenn McQueen Pixar animator
+  User2: Oh I didn't know who it was named after. I also liked Mater from that movie. He was the tow truck.
+  User1: Mater was my favo lol animator Glenn McQueen died in 2002 so the car was named after him
+  User2: That is nice that they honored him by naming the character after him. Pixar really makes good movies.
+  User1: Yes in one scene the car helped restore Radiator Springs to its former glory and heydey
+  User2: Yeah McQueen was the hero of the movie, along with his friends. I never saw Cars 2 but I heard it was good as well.
+  User1: Oh there are three, Cars1, Cars 2(2011) and Cars 3 (2017)
+  User2: Wow, I am way behind. I guess they are very popular with kids. I hope there are more!
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , they are ! they have been involved in artificial intelligence / robotics research and released their asimo robot research in 2000 .
+kgpt     i think so, honda was the 8th largest automobile manufacturer in the world in 2015.
+kexpert  yeah, i hope so! i think the movie is a great one. it was released in the united states on march 30, 2017
+msdp     Yeah , I know that the character is not named after actor and race driver Steve McQueen , but actually Pixar animator Glenn McQueen , who died in 2002 .
+bart     Yes they are very popular with kids. Cars 2 was released in 2007
+mixcl    Oh yes, they are very popular with kids, the first Cars movie came out in 2006 and it was a critical and commercial success
+human    During original research they actually met with General Motors to discuss the corvette design!
+
+Dialogue topic: Piano
+  User1: hello, The first fortepianos in the 1700s had a quieter sound i find it really interesting
+  User2: Im sorry, what are forepianos? some kind of small piano or something? im sorry if that is a dumb question. i have never heard of those before.
+  User1: a piano, especially of the kind made in the 18th and early 19th centuries
+  User2: Were they really expensive? I wonder how they are played
+  User1: i don't really know the exact prices but i wish i could play in a piano like that
+  User2: Have you ever played a piano? I tried once, they are really difficult.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i have played a piano , but i have played the keyboard .
+kgpt     no i haven't but i know it was invented in italy around 1700
+kexpert  i have not but i know it is a keyboard instrument that has a hollow wooden body
+msdp     Yeah , I know that the first fortepianos in the 1700s had a quieter sound and smaller dynamic range .
+bart     no i haven't, i wish i could play like that
+mixcl    no i have never played a piano but i have played the guitar
+human    yes, also the piano was invented in the year 1700 by Bartolomeo Cristofori
+
+Dialogue topic: Hoarding
+  User1: Hoarding involves the accumulation of objects.
+  User2: Yeah I've watched shows about it. How do they acquire so much stuff!
+  User1: Some animals make a skill out of it. They sometimes hoard much food!
+  User2: Well I can do that myself! lol
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  most animal caches are of food .
+kgpt     they are very attached to their pets and find it very difficult to let them go.
+kexpert  some animals can even be trained to do certain things like hunting, herding, and even survival skills.
+msdp     I wonder what kind of pets birds have ?
+bart     Hoarding is considered to be a type of animal predation.
+mixcl    Hoarding can be related to animal hoarding behavior.
+human    Birds are very aggressive when it comes to hoarding. They collect a lot of items even as pets.
+
+Dialogue topic: Blue
+  User2: Blue is such a beautiful color
+  User1: it is! It makes me feel so relaxed. It lies between violet and green
+  User2: green is my favorite color
+  User1: i like green as well. Have you ever heard about color psychology? it's a study of hues as a determinant of human behavior
+  User2: i've heard about it but don't know much. wanna share ?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i ' m not sure but i know that color influences are not obvious .
+kgpt     well, factors such as gender, age, and culture can influence how an individual perceives color.
+kexpert  it's a fascinating subject. it's a topic of scientific study and is a subject of ongoing research.
+msdp     Color influences perceptions that are not obvious , such as the taste of food .
+bart     i don't know much about color psychology, but i do know that it has been a topic of great interest to scholars and philosophers around the world
+mixcl    it's a study of hues as a determinant of human behavior and mood
+human    sure! Color influences perceptions that are not obvious such as the taste of food
+
+Dialogue topic: Crunch Fitness
+  User2: Do you attend a gym? Have you ever attended Crunch Fitness?
+  User1: I've heard of Crunch fitness, theyre all over major cities, but I've never attended one before. Are you a member?
+  User2: I am not. I am a member at Planet Fitness, but it seems like they would be pretty similar gyms.
+  User1: I've seen Planet Fitness around more often than I've seen Crunch Fitness, but that's probably because it's an American based franchise. 
+  User2: I hadn't seen a Planet Fitness until maybe a year ago, and now I live less than 10 minutes from FOUR of them! I think my closes Crunch Fitness is 2 hours away. Are they not an American based franchise?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , they are an american franchise . they are locations across the world , canada , and mexico .
+kgpt     they are! i've seen them in other countries, but i've never been to one in the us. i've seen them in other countries too
+kexpert  they are. crunch fitness is a subsidiary of the world wrestling entertainment (wwe) and is the largest wrestling promotion in the world.
+msdp     Yeah , they are an American based franchise .
+bart     No, they're a Canadian based franchise. They were founded in Quebec, Canada. 
+mixcl    They're based in the UK, but Crunch Fitness is a chain of over 225 Crunch Fitness gyms. 
+human    I guess I was mistaken. I thought they weren't an american chain but apparently they have over 225 fitness clubs all over america!
+
+Dialogue topic: Visual impairment
+  User2: Do you know anyone with visual impairment? I feel so bad for anyone I know who does
+  User1: Not closely but it's a very sad situation when someone has complete vision loss. Even when not fully. Today I actually saw someone blind, they had a dog, helping them.
+  User2: i think dog's are the best, to be able and willing to help people, they are such genuine creatures, we are so fortunate
+  User1: I completely agree with you as visual impaired people have so many difficulties on normal daily tasks like driving and walking.
+  User2: That is just so sad to me, I take it for granted every day, I wish there was something I could do to help them...
+  User1: I know, I feel the same way. I wish there were more tactile warning that can be detectable by long canes to alert the visually impaired but some think they might be hazardous. 
+  User2: Whatever it takes, as long as we can prevent or treat the issue, I hope we push forward and do so
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . i ' m glad you can use assistive the effects of disabilities to perform adeliorate .
+kgpt     i hope so. i know it can be hard to see in the dark, but i hope we can work together to prevent it.
+kexpert  i agree. i hope we can work together to make sure that the signs and symptoms of blindness are corrected.
+msdp     Yeah , I know that the GPS for the visually impaired is a device that allows people with visual impairments to navigate using a computer .
+bart     Yes, we need to do more. Visual impairment is the most common cause of blindness and macular degeneration.
+mixcl    I agree, it's important to push forward. Visual impairment can be caused by a variety of things like stroke, premature birth, or trauma to the eye that causes damage to the optic nerve.
+human    Either that or give them, for free, a Cydalion which is a navigation aid for people with visual impairments. They work in Tango-enabled devices.
+
+Dialogue topic: French fries
+  User2: I just ate lunch and had some really good fries. 
+  User1: Nice, always good, even with different names like chips, as they call them in British English.
+  User2: I wish I didn't like them. They are pretty high in carbs. They seem to be good just about any way you make them. except soggy maybe , and cold
+  User1: Yes,  prefer to eat less carbs, but when I eat them I prefer them alone sauce instead of ketchup, as they are usually served.
+  User2: I guess you get the full flavor that way. Ketchup and potato chips go well together too. I like the crinkle cut fries too.
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i like to use the crinkle fries , but i like them too .
+kgpt     i like them soft and crispy, but i like mine crispy too.  i like mine crispy on the outside, but crispy on the inside is good
+kexpert  i like the crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunchy crunch
+msdp     I like the crinkle cut fries too . I like the crinkle cut fries too .
+bart     Yes, I like them with ketchup as well.
+mixcl    Yes, I like them that way too.  I also like sweet potato fries, which are served hot or cold.  They are called chips in the UK.
+human    They can also be topped more heavily, as in poutine and chilli cheese fries.  I also like them a lot with Bernaise sauce.
+
+Dialogue topic: Acoustic guitar
+  User2: I think acoustic guitar music is pretty.
+  User1: An acoustic guitar is a guitar that produces sound acoustically
+  User2: When did the acoustic guitar originate?
+  User1: It transmit the vibration of the strings to the air
+  User2: Yes, but do you know when people started playing it?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i ' m not sure but gitterns were the first small plucked guitar created during the middle ages .
+kgpt     modern guitar shaped instruments were not seen until the renaissance era where the body and size began to take a guitar-like shape.
+kexpert  i do not know but i do know that the guitar is a type of chordophone
+msdp     Yes , but do you know when people started playing it ? We know that: Gitterns , a small plucked guitar were the first small guitar-like instruments created during the Middle Ages with a round back like that of a lute .
+bart     The guitar is a type of chordophone
+mixcl    The sound is projected either acoustically, using a hollow wooden or plastic and wood box
+human    I don't know. The sound waves from the strings of an acoustic guitar resonates through the body of the guitar
+
+Dialogue topic: Narcissus (plant)
+  User2: do you know anything about the Narcissus plant?
+  User1: I do know that it is pretty much a spring perennial plant.
+  User2: I wonder if it is a pretty plant?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i don ' t know but i know that they are common names including daffodil , daffodil , and narcissil .
+kgpt     i'm not sure, but strawberries are widely appreciated for their aroma, bright red color, juicy texture, and sweetness.
+kexpert  i'm not sure but i know that it is a perennial plant.
+msdp     Yes , it is a pretty plant . I wonder if it is a pretty plant .
+bart     I do know that it is also known as a daffodil.
+mixcl    I'm not sure if it is pretty, but it is one of the most popular plants in North America.
+human    I think it is pretty!  It usually has white flowers or yellow flowers sometimes with contrasting coloured tepals and corona!
+
+Dialogue topic: Rock opera
+  User1: Hi ,have you ever attended the rock opera is a collection of rock music songs with lyric ? 
+  User2: I have not, is it old music?
+  User1: Old but still conventional,  character roles within the song lyrics is a common storytelling device.
+  User2: Oh wow, it sounds interesting. Do you happen to know what parts of the world this is popular in?
+  User1: It cuts across different continents ,and in 1967, Montreal's Influence recorded a long suite titled "Mad Birds of Prey (A Mini-Opera)"
+  User2: That's awesome, I'm not too familiar with the Montreal area but I'm sure it's important!
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  it ' s a huge city in 2016 , it ' s a population of 1 , 702 , 692 , with a population of a population .
+kgpt     toronto is a prominent centre for music, theatre, motion picture production, and television production, and is home to the headquarters of canada's major
+kexpert  it is, and it is the worlds most popular tourist destination
+msdp     Yeah , I know that Queen are a British rock band that formed in London in 1970 .
+bart     rock opera is a genre of music that originated in the United States in the early 1950s.
+mixcl    Montreal is the capital and most populous city of Canada
+human    Opera music also featured at the The New York Times" wrote that "S.F.
+
+Dialogue topic: Prince (musician)
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  prince rogers nelson was a singer , songwriter , record producer , and producer .
+kgpt     prince rogers nelson was an american singer, songwriter, record producer, multi-instrumentalist, actor, and director.
+kexpert  prince rogers nelson was born in 1953
+msdp     He was born in Los Angeles , California , on June 7 , 1958 .
+bart     Are you a fan of Prince? He was an American singer, songwriter, actor, and musician.
+mixcl    I love Prince Rogers Nelson, he was an American singer, songwriter, record producer, multi-instrumentalist, actor, and director.
+human    Prince's real name was Prince Rogers Nelson.
+
+Dialogue topic: Drum kit
+  User2: did you know about drum kit
+  User1: A drum kit is also called a drum set, which contains percussion instruments.
+  User2: hmm......yes may be it can be also used for multi purposes
+  User1: Some drum kits included electronic instruments in the 2000s.
+  User2: yes ofcourse it has been used as electronic too
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  i agree . since digital drums have become popular , selling digital drums , referred to as drum kits , referred to as drum kits , referred to as drum kits , referred to as drum kits .
+kgpt     the first drum machine to use real drum kits was the linn lm-1 in 1980.
+kexpert  i have heard that electronic drums are used in many genres of music.
+msdp     Yes ofcourse it has been used as electronic too . I know that: In the 2000s , some kits also include electronic instruments ( Hornbostel-Sachs classification 53 ) .
+bart     Some kits also have electronic instruments such as drums, cymbals, and organs.
+mixcl    In the 2000s, some kits also include electronic instruments.
+human    There are also hybrid kits and entirely electronic drum kits.
+
+Dialogue topic: Jeopardy!
+  User1: I love to watch Jeopardy, which was created by Merv Griffin, but I often end up feeling quite stupid! lol
+  User2: I used to watch Jeopardy all the time. Is Alex Trebec still the host?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes he is . he was revived in 1984 .
+kgpt     yes, he is still the host. he is a great comedian and a great actor.
+kexpert  yes, he is still the host of jeopardy. he is a great show!
+msdp     Wow ! That 's impressive . How long has Jeopardy been on the air ?
+bart     Yes, Alex Trebek is still the host! He has been hosting since January 8, 1975!
+mixcl    Yes, Alex Trebek is still the host! He has hosted Jeopardy! since it began airing on NBC in 1984!
+human    Yes, since the beginning, Alex Trebek has performed as host. 
+
+Dialogue topic: Barbershop music
+  User2: I enjoy barbershop music!  Do you enjoy it as well?
+  User1: I have never been into a vocal music.
+  User2: That is too bad!  It is really fun!  Do you know when this music became popular or originated?
+  User1: I believe it started in the 1930s.
+  User2: That is forever ago!  Who are some of the more familiar singers in the genre?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  the lead of the lead of the melody , the tenor , and the tenor .
+kgpt     i think the band cabaret voltaire is one of them. they are one of the most innovative and influential electronic groups of their era.
+kexpert  i am not sure but i know that the genre was popularized by the 1940s.
+msdp     I love Bon Iver . I know that the name `` Bon Iver '' derives from the French phrase `` bon hiver '' ( ) ( `` good winter '' ) , taken from a greeting on `` Northern Exposure '' .
+bart     I am not sure, but I do know that it originated in the barbershops.
+mixcl    I don't know any names, but I do know that the melody is not usually sung by the tenor or baritone.
+human    One of them is Bon Iver.
+
+Dialogue topic: Boy Scouts
+  User2: I'm a female so have never been in the boy scouts. My brother was a scout though. It seems like a worthwhile organization.
+  User1: I think it is! It's also one of the largest scouting organizations in the United States
+  User2: That's really interesting. Any idea when it was formed?
+  User1: i think it was founded in 1910 and since then more than 110 million americans have been participants
+  User2: That's a lot of people! What sort of activities does the organization have?
+  User1: they participate in a wide range of outdoor activities and educational programs as well
+  User2: That's great! Young people must get so much benefit from being members of such an organization.
+  User1: they do! and it's so good for their character development
+  User2: It's so important for young people to have diverse interest and develop a wide range of skills, don't you think?
+Please score each model in terms of Informativeness, Relevancy, Factuality, and Humanlikeness.
+ducknet  yes , it is very important to think about that .
+kgpt     yes, it's very important for them to be able to speak one language over the other
+kexpert  yes, it's important for them to have a wide range of interests and develop a wide range of skills, don't you think?
+msdp     Yes , I think so . I think so .
+bart     yes, it's even more important now that they have access to a wide range of skills
+mixcl    yes! and it's so good for their character development
+human    i agree with you on that! I would want my son to be in boy scouts
+

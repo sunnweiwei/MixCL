@@ -10,5 +10,7 @@ The code for model training and testing is available at `run.py`
 
 The dataset (i.e., [Wizard-of-Wikipedia](https://parl.ai/projects/wizard_of_wikipedia/)) is placed in `/dataset`, and `/utils` provides the code for IO and evaluation. 
 
+We provide an example of the outputs of models on WoW seen at `outputs_on_seen.txt`
+
 
 
