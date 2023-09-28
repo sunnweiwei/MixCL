@@ -21,11 +21,11 @@ We provide an example of the outputs of models on WoW seen at `outputs_on_seen.t
 
 ## Cite
 ```
-@inproceedings{Sun2022ContrastiveLR,
+@inproceedings{Sun2023ContrastiveLR,
   title={Contrastive Learning Reduces Hallucination in Conversations},
   author={Weiwei Sun and Zhengliang Shi and Shen Gao and Pengjie Ren and M. de Rijke and Zhaochun Ren},
   booktitle={AAAI Conference on Artificial Intelligence},
-  year={2022},
+  year={2023},
   pages={13618--13626}
 }
 ```
