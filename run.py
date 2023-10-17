@@ -712,7 +712,6 @@ def lower(text):
 
 
 def test():
-    from driver.train_bart import Data
     batch_size = 32
     model_name = 'facebook/bart-large'
     ckpt_name = 'bart-large-mixcl'
