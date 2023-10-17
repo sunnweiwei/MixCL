@@ -150,6 +150,41 @@ def choice_index(number, sample_size):
             return i, number - sum(sample_size[:i])
 
 
+class Data(Dataset):
+    def __init__(self, context, response, tokenizer, context_len=256, response_len=128):
+        super(Dataset, self).__init__()
+        self.context = context
+        self.response = response
+        self.tokenizer = tokenizer
+        self.context_len = context_len
+        self.response_len = response_len
+
+    def __getitem__(self, index):
+        context = self.context[index]
+        response = self.response[index]
+        if len(context[0]) > 0:
+            topic = self.tokenizer.encode(context[0])
+        else:
+            topic = []
+        context = topic + self.tokenizer.encode(' '.join(context[1:]))[-(self.context_len - len(topic)):]
+        response = self.tokenizer.encode(response, truncation=True, max_length=self.response_len)
+        context = torch.tensor(context)
+        response = torch.tensor(response)
+        return context, response
+
+    def __len__(self):
+        return len(self.context)
+
+    @staticmethod
+    def collate_fn(data):
+        context, response = zip(*data)
+        context = pad_sequence(context, batch_first=True, padding_value=1)
+        return {
+            'input_ids': context,
+            'attention_mask': context.ne(1),
+            'labels': pad_sequence(response, batch_first=True, padding_value=-100),
+        }
+
 class CLData(Dataset):
     def __init__(self, context, response, ratio, tokenizer, sign=None, context_len=256, response_len=128, **kwargs):
         super(Dataset, self).__init__()
